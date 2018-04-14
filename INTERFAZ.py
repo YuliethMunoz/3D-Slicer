@@ -21,7 +21,7 @@ class INTERFAZ:
     parent.title = "INTERFAZ" 
     parent.categories = ["Procesamiento"]
     parent.dependencies = []
-    parent.contributors = ["Yulieth Katerine Muñoz Zapata (Universidad de Antioquia)"] # replace with "Firstname Lastname (Organization)"
+    parent.contributors = ["Yulieth Katerine Muñoz Zapata Hola (Universidad de Antioquia)"] # replace with "Firstname Lastname (Organization)"
     parent.helpText = """
         """
     parent.acknowledgementText = """
